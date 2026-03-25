@@ -48,6 +48,7 @@ C:\Users\JohnSandberg\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\ne
 C:\Users\JohnSandberg\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net10.0\WaterProject.API.csproj.CoreCompileInputs.cache
 C:\Users\JohnSandberg\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net10.0\WaterProject.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\JohnSandberg\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net10.0\WaterProject.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JohnSandberg\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net10.0\WaterProject.API.sourcelink.json
 C:\Users\JohnSandberg\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\JohnSandberg\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\JohnSandberg\Desktop\WaterProject\backend\WaterProject.API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
